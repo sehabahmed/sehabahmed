@@ -1,3 +1,4 @@
+![logo](https://github.com/sehabahmed/sehabahmed/blob/main/github%20cover.jpg)
 <h1 align="center">Hi 👋, I'm Sehab Ahmed</h1>
 <h3 align="center">A passionate Full Stack Web Application Developer</h3>
 
@@ -5,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React, Redux, Tailwind CSS, Node,Express, MongoDB, Mongoose**
+- 💬 Ask me about **React, Redux, Tailwind CSS, Node, Express, MongoDB, Mongoose**
 
 - 📫 How to reach me **sehabahmed50100@gmail.com**
 
