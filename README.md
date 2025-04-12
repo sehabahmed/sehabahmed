@@ -4,8 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://app.lottiefiles.com/share/63defcb3-85a6-47b5-ae08-d958087c944f">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sehabahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sehabahmed" /> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React, Redux, Tailwind CSS, Node, Express, MongoDB, Mongoose**
