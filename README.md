@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehabahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sehabahmed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wordpress5010" target="blank"><img src="https://img.shields.io/twitter/follow/wordpress5010?logo=twitter&style=for-the-badge" alt="wordpress5010" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack Development**
 
 - 💬 Ask me about **React, Redux, Tailwind CSS, Node,Express, MongoDB, Mongoose**
