@@ -30,11 +30,11 @@
 <h2>🔗 Get in Touch with Me!</h2>
 <p align dir="auto">
 
-<a href="https://www.linkedin.com/in/sehabahmed" target="blank">
+<a href="https://www.linkedin.com/in/sehabahmed" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
 </a>
-
-<a href="https://www.facebook.com/sehabahmedd" target="blank">
+&nbsp;
+<a href="https://www.facebook.com/sehabahmedd" target="_blank">
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
 </a>
 
