@@ -35,6 +35,6 @@
   
 
 </p>
-<a hre="https://www.linkedin.com/in/sehabahmed" target="blank">
-  <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/badges/social/facebook/facebook.svg" height="30" />
+<a href="https://reactjs.org">
+  <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/badges/technology/react/react.svg" alt="React" height="30"/>
 </a>
