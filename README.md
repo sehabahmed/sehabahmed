@@ -20,11 +20,21 @@
 <hr/>
 <h2 align="left">📊 GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehabahmed&show_icons=true&locale=en&layout=compact" alt="sehabahmed" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehabahmed&show_icons=true&locale=en" alt="sehabahmed" /></p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehabahmed&show_icons=true&locale=en&layout=compact" alt="sehabahmed" />
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehabahmed&" alt="sehabahmed" /></p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sehabahmed&show_icons=true&locale=en" alt="sehabahmed" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehabahmed&" alt="sehabahmed" />
+  </p>
+
+</div>
 <hr/>
 
 <h2>🔗 Get in Touch with Me!</h2>
