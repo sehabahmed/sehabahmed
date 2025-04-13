@@ -36,5 +36,5 @@
 
 </p>
 <a hre="https://www.linkedin.com/in/sehabahmed" target="blank">
-  ![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+  <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/badges/social/facebook/facebook.svg" height="30" />
 </a>
