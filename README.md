@@ -34,7 +34,6 @@
   </a>
 
   <a hre="https://www.facebook.com/sehabahmedd" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-" height="25" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    <img src="{https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white}" />
   </a>
 </p>
