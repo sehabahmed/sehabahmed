@@ -28,7 +28,7 @@
 <hr/>
 
 <h2>🔗 Get in Touch with Me!</h2>
-<p align="center">
+<p align="">
 
   <a href="https://www.linkedin.com/in/sehabahmed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
@@ -41,4 +41,3 @@
   </a>
 
 </p>
->
