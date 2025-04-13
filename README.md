@@ -1,6 +1,6 @@
 ![logo](https://github.com/sehabahmed/sehabahmed/blob/main/github%20cover.jpg)
 <h1 align="center">Hi 👋, I'm Sehab Ahmed</h1>
-<h2 align="center">💻 Full-Stack Web Application Developer | 🍃 Proficient in MERN Stack Technologies</h2>
+<h3 align="center">💻 Full-Stack Web Application Developer | 🍃 Proficient in MERN Stack Technologies</h3>
 <hr/>
 - 🌱 I’m currently learning **MERN Stack**
 
