@@ -30,10 +30,10 @@
 <h2>🔗 Get in Touch with Me!</h2>
 <p align dir="auto">
   <a hre="https://www.linkedin.com/in/sehabahmed" target="blank">
-    <img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="25" style="max-width: 100%;">
   </a>
 
-<a href="https://reactjs.org">
+<a href="https://www.facebook.com/sehabahmedd" target="blank">
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
 </a>
 
