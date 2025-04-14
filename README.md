@@ -30,9 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sehabahmed&show_icons=true&locale=en" alt="sehabahmed" />
   </p>
 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehabahmed&" alt="sehabahmed" />
-  </p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehabahmed&" alt="sehabahmed" /></p>
 
 </div>
 <hr/>
