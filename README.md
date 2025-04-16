@@ -22,10 +22,7 @@
 
 <div align="center">
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sehabahmed&theme=transparent&hide_border=true&date_format=M j Y" alt="Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sehabahmed&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  </p>
+  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sehabahmed&theme=dark" alt="Stats" /></p>
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sehabahmed&show_icons=true&locale=en" alt="sehabahmed" />
