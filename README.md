@@ -23,7 +23,7 @@
 <div align="center">
 
 
-<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sehabahmed&theme=dark" alt="sehabahmed" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehabahmed&theme=dark" alt="sehabahmed" /></p>
 
   <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sehabahmed&theme=dark" alt="Stats" /></p>
 
