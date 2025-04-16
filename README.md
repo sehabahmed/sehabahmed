@@ -32,6 +32,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehabahmed&show_icons=true&locale=en&layout=compact" alt="sehabahmed" />
   </p>  
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sehabahmed&theme=transparent&hide_border=true&date_format=M j Y" alt="Streak Stats" />
+
 </div>
 <hr/>
 
