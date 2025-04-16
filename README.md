@@ -22,10 +22,13 @@
 
 <div align="center">
 
+  <p>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sehabahmed&theme=dark" alt="sehabahmed" />
+  </p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehabahmed&theme=dark" alt="sehabahmed" /></p>
-
-  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sehabahmed&theme=dark" alt="Stats" /></p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sehabahmed&theme=dark" alt="Stats" />
+  </p>
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehabahmed&show_icons=true&locale=en&layout=compact&theme=dark" alt="sehabahmed" />
