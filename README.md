@@ -31,6 +31,7 @@
   </p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehabahmed&" alt="sehabahmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sehabahmed&theme=dark" alt="sehabahmed" /></p>
 
 </div>
 <hr/>
